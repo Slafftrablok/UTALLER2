@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "toy man",
+        "cantidad": 39,
+        "precio": 12.0
+    },
+    {
+        "nombre": "bob",
+        "cantidad": 30,
+        "precio": 35.0
+    }
+]
